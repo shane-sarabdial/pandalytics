@@ -1,7 +1,7 @@
 # pandalytics
 
 Members - Edward Oh, Noelle Kiesz, Shane Sarabdial, Tristen Brewer
-
+![panda](mascot.jpg)
 
 Inside the ETL folder, you will find the extraction notebook where all data was extracted from the census website. Each data set was saved as a CSV file under the data folder. Each member worked on their respective dataset to find conclusions. 
 
